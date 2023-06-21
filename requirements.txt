@@ -28,6 +28,6 @@ six==1.16.0
 stack-data==0.2.0
 tokenize-rt==4.2.1
 tomli==2.0.1
-tornado==6.1
+tornado>=6.3.2
 traitlets==5.2.2.post1
 wcwidth==0.2.5
